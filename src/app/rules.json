@@ -1,0 +1,80 @@
+
+[
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee",
+      "fees",
+      "fee structure",
+      "semester fee",
+      "dues",
+      "fee challan",
+      "payment",
+      "tuition"
+    ],
+    "reply": "For information about the University of Sargodha fee structure, check the latest official university fee notification or contact your department's office. Fee amounts may vary by program and semester. Please confirm the applicable fee before making a payment."
+  },
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "admissions",
+      "apply",
+      "application",
+      "eligibility",
+      "merit list",
+      "merit",
+      "last date",
+      "deadline",
+      "prospectus"
+    ],
+    "reply": "For admissions at the University of Sargodha, review the latest admission advertisement and prospectus for eligibility criteria, deadlines, required documents, and application instructions. Check the official university website for current admission updates."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "timing",
+      "timings",
+      "university time",
+      "opening time",
+      "closing time",
+      "office hours",
+      "class time",
+      "class timing",
+      "schedule",
+      "working hours"
+    ],
+    "reply": "University, department, and class timings can vary by day, semester, and department. Please check your department's timetable or contact the relevant university office to confirm the current schedule."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library",
+      "books",
+      "book issue",
+      "borrow books",
+      "return book",
+      "library card",
+      "reading room",
+      "study space",
+      "librarian"
+    ],
+    "reply": "The university library can help with book borrowing, reading facilities, and library membership. For current opening hours, borrowing limits, overdue fines, and library card requirements, contact the library desk."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "room",
+      "hostel fee",
+      "hostel admission",
+      "residence",
+      "mess",
+      "room allotment",
+      "warden",
+      "boarding"
+    ],
+    "reply": "For University of Sargodha hostel accommodation, contact the university's hostel administration to ask about eligibility, availability, room allotment, fees, and required documents. Availability and arrangements may differ for male and female students."
+  }
+]
